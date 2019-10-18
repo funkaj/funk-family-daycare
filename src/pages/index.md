@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
-title: Great childcare with a conscience
-image: /img/home-jumbotron.jpg
+title: FUNK FAMILY CHILD CARE
+image: >-
+  /img/imgbin-child-care-thumb-signal-nanny-stock-photography-child-q0dn83krekufbmgp4htuyh1vm.jpg
 heading: Great childcare with heart!
 subheading: Support sustainable childcare
 mainpitch:
