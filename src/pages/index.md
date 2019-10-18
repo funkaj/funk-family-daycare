@@ -1,8 +1,7 @@
 ---
 templateKey: index-page
 title: FUNK FAMILY CHILD CARE
-image: >-
-  /img/imgbin-child-care-thumb-signal-nanny-stock-photography-child-q0dn83krekufbmgp4htuyh1vm.jpg
+image: /img/pexels-photo-1337387.jpeg
 heading: Great childcare with heart!
 subheading: Support sustainable childcare
 mainpitch:
