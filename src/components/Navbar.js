@@ -7,6 +7,7 @@ import piggy from '../img/piggy.svg';
 import dino from '../img/dino.svg';
 import ducky from '../img/ducky.svg';
 import robo from '../img/robo.svg';
+import logo from '../img/logo.svg';
 
 const Navbar = class extends React.Component {
 	constructor(props) {
@@ -47,10 +48,14 @@ const Navbar = class extends React.Component {
 					<div className='navbar-brand'>
 						<Link to='/' className='navbar-item' title='Home'>
 							{/* Create logo for FFC */}
-							
-							<h1 style={{ width: '88px', color: '#ff4400' }}>
+							<img
+								src={logo}
+								alt='Funk Family Childcare'
+								style={{ width: '150px', minHeight: '100px' }}
+							/>
+							{/* <h1 style={{ width: '88px', color: '#ff4400' }}>
 								Funk Family Childcare
-							</h1>
+							</h1> */}
 						</Link>
 						{/* Hamburger menu */}
 						<div
