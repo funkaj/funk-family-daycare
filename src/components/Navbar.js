@@ -30,10 +30,10 @@ const Navbar = class extends React.Component {
 				this.state.active
 					? this.setState({
 							navBarActiveClass: 'is-active',
-					  })
+					})
 					: this.setState({
 							navBarActiveClass: '',
-					  });
+					});
 			}
 		);
 	};
@@ -47,15 +47,11 @@ const Navbar = class extends React.Component {
 				<div className='container'>
 					<div className='navbar-brand'>
 						<Link to='/' className='navbar-item' title='Home'>
-							{/* Create logo for FFC */}
 							<img
 								src={logo}
 								alt='Funk Family Childcare'
 								style={{ width: '150px', minHeight: '100px' }}
 							/>
-							{/* <h1 style={{ width: '88px', color: '#ff4400' }}>
-								Funk Family Childcare
-							</h1> */}
 						</Link>
 						{/* Hamburger menu */}
 						<div
@@ -80,13 +76,6 @@ const Navbar = class extends React.Component {
 							<Link className='navbar-item' to='/contact'>
 								Contact
 							</Link>
-							{/* Most likley not going to use these pages. Remove them */}
-							{/* <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link> */}
 						</div>
 						<div>
 							<img
@@ -112,6 +101,7 @@ const Navbar = class extends React.Component {
 						</div>
 						<div className='navbar-end has-text-centered'>
 							<a
+						
 								className='navbar-item'
 								title='facebook'
 								href='https://facebook.com'
