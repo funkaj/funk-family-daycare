@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import github from '../img/github-icon.svg';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
-
+import piggy from '../img/piggy.svg';
 const Navbar = class extends React.Component {
 	constructor(props) {
 		super(props);
@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
 					<div className='navbar-brand'>
 						<Link to='/' className='navbar-item' title='Home'>
 							{/* Create logo for FFC */}
-							{/* <img src={logo} alt="Funk Family Childcare" style={{ width: '88px' }} /> */}
+							<img src={piggy} alt="Funk Family Childcare" style={{ width: '88px', minHeight: '100px' }} />
 							<h1 style={{ width: '88px', color: '#ff4400' }}>
 								Funk Family Childcare
 							</h1>
