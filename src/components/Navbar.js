@@ -3,10 +3,8 @@ import { Link } from 'gatsby';
 import github from '../img/github-icon.svg';
 import facebook from '../img/social/facebook.svg';
 import instagram from '../img/social/instagram.svg';
-import piggy from '../img/piggy.svg';
-import dino from '../img/dino.svg';
-import ducky from '../img/ducky.svg';
-import robo from '../img/robo.svg';
+import group from '../img/group.svg';
+
 import logo from '../img/logo.svg';
 
 const Navbar = class extends React.Component {
@@ -79,25 +77,11 @@ const Navbar = class extends React.Component {
 						</div>
 						<div>
 							<img
-								src={piggy}
-								alt='Funk Family Childcare'
+								src={group}
+								alt='group'
 								style={{ width: '88px', minHeight: '100px' }}
 							/>
-							<img
-								src={dino}
-								alt='Dino'
-								style={{ width: '88px', minHeight: '100px' }}
-							/>
-							<img
-								src={robo}
-								alt='Robo'
-								style={{ width: '88px', minHeight: '100px' }}
-							/>
-							<img
-								src={ducky}
-								alt='Ducky'
-								style={{ width: '88px', minHeight: '100px' }}
-							/>
+							
 						</div>
 						<div className='navbar-end has-text-centered'>
 							<a
