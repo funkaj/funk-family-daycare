@@ -36,9 +36,9 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
+                    <span></span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                    &bull; {post.frontmatter.date}
                     </span>
                   </p>
                 </header>
@@ -46,7 +46,11 @@ class BlogRoll extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
+                  <Link className="button" to={post.fields.slug} style={{ 
+                    backgroundColor: '#9933ccb6', 
+                    border: 'none', 
+                    color: 'rgb(255, 240, 102)',
+                    }}>
                     Keep Reading →
                   </Link>
                 </p>
