@@ -7,64 +7,37 @@ subheading: Support sustainable childcare
 mainpitch:
   title: Why Funk Family Childcare
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Duis ut voluptate nisi aute aliquip magna. Sunt occaecat non eu velit et cillum. Officia sint dolore voluptate aliqua ut velit nisi eiusmod non sint dolor. Ullamco consectetur sit eiusmod mollit culpa culpa fugiat elit proident quis et esse excepteur.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Ea tempor exercitation proident ipsum. Enim commodo amet aliquip sunt laboris veniam deserunt veniam. Ex ut ea ut veniam do ullamco. Aliqua cupidatat sunt in et aute. Incididunt est aliquip proident velit amet nostrud commodo nostrud consequat irure fugiat tempor sit dolor. Irure cupidatat proident commodo in deserunt officia reprehenderit. Officia sint minim id sint eiusmod magna dolor.
 intro:
   blurbs:
-    - image: /img/dino.png
+    - image: /img/pexels-photo-296301.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/robo.png
+        Commodo duis irure occaecat eiusmod amet eu proident laboris ad in non sunt magna. Ut consequat ex cillum elit commodo reprehenderit magna ex cillum laborum reprehenderit sit aliquip irure. Deserunt eu ullamco elit proident proident in qui.
+    - image: /img/crayons-coloring-book-coloring-book-159579.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/ducky.png
+        Minim et deserunt consequat nulla culpa adipisicing anim incididunt. Mollit exercitation officia exercitation cupidatat. Dolore fugiat minim adipisicing ullamco elit nostrud non sint eu aute do enim. Reprehenderit labore adipisicing cillum non ad.
+    - image: /img/kids-girl-pencil-drawing-159823.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/piggy.png
+        Dolor aute eiusmod eu consequat sunt sint. Est ea tempor amet qui. Non et nisi quis dolor eu qui velit ipsum non cillum adipisicing incididunt nulla. Laboris consectetur tempor occaecat consectetur esse labore aliquip adipisicing nisi. Aute irure incididunt exercitation ea.
+    - image: /img/pexels-photo-346796.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Amet esse ullamco mollit occaecat ex proident ea. Aliquip ex do ipsum proident ex magna laboris velit minim adipisicing incididunt. Sint nisi magna quis laborum dolor quis est.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Ea nostrud consequat sunt minim duis in labore do nulla id labore nostrud. Lorem excepteur tempor pariatur ex quis dolore dolore reprehenderit excepteur culpa et eiusmod duis. Non deserunt excepteur ex culpa officia eiusmod commodo labore incididunt ut consectetur veniam. Consectetur esse duis irure et id sit reprehenderit.
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Velit magna esse nulla cillum nisi aliqua culpa. Ullamco tempor in ullamco proident aute nulla exercitation dolor reprehenderit sit. Dolor officia minim consectetur est aute duis ut dolore laborum aliquip.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A close-up of playdoh
+    image: /img/pexels-photo-1449934.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: A row of stuffed animals
+    image: /img/imgbin-child-care-thumb-signal-nanny-stock-photography-child-q0DN83KRekufBMgP4HTUYh1vM.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: holding hands
+    image: /img/pexels-photo-226618.jpeg
 ---
