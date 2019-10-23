@@ -3,7 +3,7 @@ templateKey: index-page
 title: FUNK FAMILY CHILD CARE
 image: /img/pexels-photo-1337387.jpeg
 heading: Great childcare with heart!
-subheading: Support sustainable childcare
+subheading: Family Friendly childcare
 mainpitch:
   title: Why Funk Family Childcare
   description: >
