@@ -3,17 +3,23 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Quality
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+“We believe every child deserves excellence in early learning programs and services to make a difference in their lives and our community.”
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Integrity
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+“We believe integrity is the bedrock of a trustworthy organization which promotes effective relationships and assures mindful stewardship of state resources.”
+
+### Service
+
+“We believe families and providers are unique and we strive to understand, appreciate, and serve their needs.”
+
+### Commitment
+
+“We provide a service to our parents, meet the needs of young children and work together to provide a happy, safe, nurturing environment for everyone that is involved with the school. Our actions are based on sound knowledge and accountability for our actions. young children and work”
+
+<br>
+
+> <em>“My kids love to go to daycare at Bethany's. She does a great job with caring for my children. She has a good food plan, lots of activities for the kids. The environment is safe and I would definitely recommend her to other parents.” - Heather Ferriss</em>
