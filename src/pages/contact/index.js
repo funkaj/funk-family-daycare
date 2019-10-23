@@ -36,10 +36,30 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/95315034-a-small-boy-attached-a-telephone-from-a-tin-can-to-his-ear.jpg')`,
+            
+          }}
+        >
+          <h1
+            className="is-size-1"
+            style={{
+              boxShadow: '0.5rem 0 0 rgb(255, 240, 102), -0.5rem 0 0 rgb(255, 240, 102)',
+              backgroundColor: 'rgb(255, 240, 102)',
+              color: '#9933cc',
+              fontFamily:  'Permanent Marker',
+              padding: '1rem',
+            }}
+          >
+            Contact
+          </h1>
+        </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              
               <form
                 name="contact"
                 method="post"
@@ -101,7 +121,14 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
+                  <button className="button is-link" type="submit" style={{ 
+                    backgroundColor: 'rgb(255, 240, 102)',
+                    borderRadius: '.25rem',
+                    fontWeight: '700',
+                    color: '#9933cc',
+                    transition: 'all .15s ease',
+                    border: 'rgb(153, 51, 204) solid 2px'
+                    }}>
                     Send
                   </button>
                 </div>
