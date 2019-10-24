@@ -28,10 +28,10 @@ const Navbar = class extends React.Component {
 				this.state.active
 					? this.setState({
 							navBarActiveClass: 'is-active',
-					})
+					  })
 					: this.setState({
 							navBarActiveClass: '',
-					});
+					  });
 			}
 		);
 	};
@@ -44,6 +44,13 @@ const Navbar = class extends React.Component {
 				aria-label='main-navigation'>
 				<div className='container'>
 					<div className='navbar-brand'>
+						<div>
+							<img
+								src={group}
+								alt='group'
+								style={{ width: '88px', minHeight: '100px' }}
+							/>
+						</div>
 						<Link to='/' className='navbar-item' title='Home'>
 							<img
 								src={logo}
@@ -75,32 +82,37 @@ const Navbar = class extends React.Component {
 								Contact
 							</Link>
 						</div>
-						<div>
-							<img
-								src={group}
-								alt='group'
-								style={{ width: '88px', minHeight: '100px' }}
-							/>
-							
-						</div>
+
 						<div className='navbar-end has-text-centered'>
 							<a
-						
+								className='navbar-item'
+								title='instagram'
+								href='mailto:funkfamilychildcare@hotmail.com'
+								rel='noopener noreferrer'>
+								<table>
+									<tbody>
+										<tr>
+											<td>
+												<p className='email-link'>
+													funkfamilychildcare@hotmail.com
+												</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p className='lic'>LIC# 334843725</p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</a>
+							<a
 								className='navbar-item'
 								title='facebook'
 								href='https://facebook.com'
 								rel='noopener noreferrer'>
 								<span className='icon'>
 									<img src={facebook} alt='Facebook' />
-								</span>
-							</a>
-							<a
-								className='navbar-item'
-								title='instagram'
-								href='https://instagram.com'
-								rel='noopener noreferrer'>
-								<span className='icon'>
-									<img src={instagram} alt='Instagram' />
 								</span>
 							</a>
 							<a

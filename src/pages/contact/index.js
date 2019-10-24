@@ -46,9 +46,9 @@ export default class Index extends React.Component {
           <h1
             className="is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 rgb(255, 240, 102), -0.5rem 0 0 rgb(255, 240, 102)',
-              backgroundColor: 'rgb(255, 240, 102)',
-              color: '#9933cc',
+              boxShadow: '0.5rem 0 0 #fbf579, -0.5rem 0 0 #fbf579',
+              backgroundColor: '#fbf579',
+              color: '#600473',
               fontFamily:  'Permanent Marker',
               padding: '1rem',
             }}
@@ -122,10 +122,10 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit" style={{ 
-                    backgroundColor: 'rgb(255, 240, 102)',
+                    backgroundColor: '#fbf579',
                     borderRadius: '.25rem',
                     fontWeight: '700',
-                    color: '#9933cc',
+                    color: '#600473',
                     transition: 'all .15s ease',
                     border: 'rgb(153, 51, 204) solid 2px'
                     }}>
