@@ -47,7 +47,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug} style={{ 
-                    backgroundColor: '#9933ccb6', 
+                    backgroundColor: '#600473b6', 
                     border: 'none', 
                     color: 'rgb(255, 240, 102)',
                     }}>
