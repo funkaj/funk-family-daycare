@@ -27,10 +27,10 @@ const Navbar = class extends React.Component {
 				this.state.active
 					? this.setState({
 							navBarActiveClass: 'is-active',
-					  })
+					})
 					: this.setState({
 							navBarActiveClass: '',
-					  });
+					});
 			}
 		);
 	};
@@ -70,15 +70,15 @@ const Navbar = class extends React.Component {
 					<div
 						id='navMenu'
 						className={`navbar-menu ${this.state.navBarActiveClass}`}>
-						<div className='navbar-start has-text-centered'>
-							<Link className='navbar-item' to='/about'>
-								About
+						<div className='navbar-start has-text-centered' >
+							<Link className='navbar-item ' to='/about'>
+								<span className='nav-text'>About</span>
 							</Link>
-							<Link className='navbar-item' to='/blog'>
-								Blog
+							<Link className='navbar-item ' to='/blog'>
+								<span className='nav-text'>Blog</span>
 							</Link>
-							<Link className='navbar-item' to='/contact'>
-								Contact
+							<Link className='navbar-item ' to='/contact'>
+								<span className='nav-text'>Contact</span>
 							</Link>
 						</div>
 
@@ -92,7 +92,7 @@ const Navbar = class extends React.Component {
 									<tbody>
 										<tr>
 											<td>
-												<p className='email-link'>
+												<p className='email-link nav-text'>
 													funkfamilychildcare@hotmail.com
 												</p>
 											</td>
