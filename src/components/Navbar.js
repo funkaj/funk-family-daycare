@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'gatsby';
 import github from '../img/github-icon.svg';
 import facebook from '../img/social/facebook.svg';
-import instagram from '../img/social/instagram.svg';
 import group from '../img/group.svg';
 
 import logo from '../img/logo.svg';
