@@ -27,10 +27,10 @@ const Navbar = class extends React.Component {
 				this.state.active
 					? this.setState({
 							navBarActiveClass: 'is-active',
-					})
+					  })
 					: this.setState({
 							navBarActiveClass: '',
-					});
+					  });
 			}
 		);
 	};
@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
 					<div
 						id='navMenu'
 						className={`navbar-menu ${this.state.navBarActiveClass}`}>
-						<div className='navbar-start has-text-centered' >
+						<div className='navbar-start'>
 							<Link className='navbar-item ' to='/about'>
 								<span className='nav-text'>About</span>
 							</Link>
@@ -82,31 +82,30 @@ const Navbar = class extends React.Component {
 							</Link>
 						</div>
 
-						<div className='navbar-end has-text-centered'>
-							<a
-								className='navbar-item'
-								title='instagram'
-								href='mailto:funkfamilychildcare@hotmail.com'
-								rel='noopener noreferrer'>
-								<table>
-									<tbody>
-										<tr>
-											<td>
+						<div className='navbar-end navbar-item'>
+							<table>
+								<tbody>
+									<tr>
+										<td>
+											<a
+												title='email'
+												href='mailto:funkfamilychildcare@hotmail.com'
+												rel='noopener noreferrer'>
 												<p className='email-link nav-text'>
 													funkfamilychildcare@hotmail.com
 												</p>
-											</td>
-										</tr>
-										<tr>
-											<td>
-												<p className='lic'>LIC# 334843725</p>
-											</td>
-										</tr>
-									</tbody>
-								</table>
-							</a>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p className='lic'>LIC# 334843725</p>
+										</td>
+									</tr>
+								</tbody>
+							</table>
 							<a
-								className='navbar-item'
+								className='navbar-item nav-icons'
 								title='facebook'
 								href='https://facebook.com'
 								rel='noopener noreferrer'>
@@ -115,7 +114,7 @@ const Navbar = class extends React.Component {
 								</span>
 							</a>
 							<a
-								className='navbar-item'
+								className='navbar-item nav-icons'
 								href='https://github.com/funkaj/funk-family-daycare'
 								target='_blank'
 								rel='noopener noreferrer'>
